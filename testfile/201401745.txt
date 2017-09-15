@@ -1,0 +1,41 @@
+60/女
+[報告內容]
+1. Breast, left, upper outer quadrant, 8-12 o'clock position, breast conserving surgery, grade 1/3 invasive ductal carcinoma of no special type (ductal NST, tumor size measuring 1.3-cm in maximal dimension, section A2, according to the Nottingham modification of the Bloom-Richardson System: point of tubule formation = 2, nuclear pleomorphism = 2, and mitotic count = 1; total score = 2+2+1 = 5/9) composed by tumor cells with mild nuclear pleomorphism arranged in tubular, trabecular or nested growth patterns with indistinct tumor necrosis, silent mitotic activity, frequent intra-tubular mucin production(50% in area), marked desmoplastic reaction, moderate lymphoplasmacytic tumor-host reaction, adjacent hemorrhage, fibrosis and granulation tissue formation, compatible with previous biopsy site, scattered low-grade cribriform or solid ductal carcinoma in situ(DCIS, size measuring up to 1.5-mm in maximal dimension) without central necrosis, scattered perineural invasion, and no definite lymphovascular permeation identified.    
+2. Surgical margin, left breast, 3,6,9,12 o'clock, superficial and base, breast conserving surgery, free of tumor invasion, but focally very close at 3' margin(about 0.1-mm in distance, section A3).
+3. Breast, left, non-tumor part, breast conserving surgery, stromal fibrosis , ductal ectasia, microglandular adenosis, columnar cell change, and no definite invasive tumor identified.
+4. Surgical margin, separately submitted and labeled as "additional margin", free of tumor invasion or DCIS lesion.
+5. Skin, right breast, free of tumor invasion or Paget's cells.
+6. Lymph node, axillary, left, lymphadenectomy, free of tumor invasion(0/1).
+7. The immunohistochemical study for the primary invasive tumor cells(section A6): 
+     ER: positive, 4/4, evident nuclei staining, intensity and proportion: weak(10%), moderate(30%), strong(58%)
+     PR: negative, 2/4, evident nuclei staining, intensity and proportion: weak(5%), moderate(10%), strong(10%)
+     AR: positive, 4/4, evident nuclei staining, intensity and proportion: weak(10%), moderate(50%), strong(30%)
+     HER-2/neu: negative, score 1, +/+++, weak incomplete membranous staining in about 10% of tumor cells.
+     E-cadherin: positive, strong membranous staining.
+     P63: loss of myoepithelial expression in invasive components.
+     CK5/14: loss of myoepithelial expression in invasive components.
+     Ki-67 proliferation index: about 6% in hot zone.
+     EGFR: negative
+     Synaptophysin: negative
+     Chromogranin A: negative
+     consistent with the immunosurrogates suggestive of ductal carcinoma NST of luminal-A genotype.
+8. pTNM: pT1cN0(sn), cM0, stage IA (AJCC, 2010).
+[描述]
+The specimen is submitted in three bags labeled as 1.The breast tumor, 2.Additional margin, and 3.Non-sentinel enlarged ALNs, respectively, fixed in formalin. The tumor lesion has been cut as received.
+      
+     Specimen 1 removed by breast conserving surgery measures 5.0x3.9x2.5-cm in size and 20.0-gm in weight. The overlying skin measures 2.2x0.5-cm in dimension. The specimen had been cut at tumor portion when received and the direction at 12, 3 o'clock is orientated by sutures. There is a yellowish-white, firm, ill-defined mass, measuring 1.0x1.0-cm in dimension, with surrounding hemorrhage. It is 1.5-cm from superficial margin, 0.3-cm from base margin, and 1.5-cm, 0.3-cm, 0.4-cm and 0.5-cm away from peripheral margins at 12, 3, 6, 9 o'clock. All of the surgical margins are free of tumor grossly. The non-tumor breast tissue shows focal fibrotic change. 
+     Specimen 2 labeled as "Additional margin" consist of one breast tissue measuring 3.3x2.0x1.0-cm in size. It is tan and elastic.      
+     Specimen 3 labeled as "Non-sentinel enlarged ALNs" consist of one piece of fibroadipose tissue measuring 4.0x3.0x1.5-cm in size. Grossly, it is yellow and soft. Several lymph nodes are dissected. 
+     
+     Representative tissues are taken and labeled as following:  Jar 2.
+     A1-2: tumor and biopsy site, with peripheral margins(mapping, 12' margin inked yellow, 3' margin inked green, 6' margin inked ornage, 9' margin inked blue)
+     A3-7: peritumoral fibrotic area, with peripheral margins
+     B1-2: superficial margin(perpendicular, inked red)
+     B3-4: base margin(perpendicular, inked black)
+     C: skin
+     D1-5: additional margin(all for section, one margin inked orange, another margin inked green)
+     E1-4: right axillary lymph nodes(all for section)
+      
+     For the microscopic descriptions, please refer to the region of diagnostic columns described in the vortext! Thanks !!
+
+     Resident Kai-Po Chang/ Attending V.S. Tze-Yi Lin

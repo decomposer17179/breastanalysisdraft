@@ -1,0 +1,51 @@
+53/女
+[報告內容]
+1. Breast, 12 o'clock direction, 2-cm from the nipple/areola right, simple mastectomy, grade 3/3 invasive ductal carcinoma of no sepcial type (ductal NST, tumor size measuirng 21-mm in greatest dimension, according to the Nottingham modification of the Bloom-Richardson System: point of tubule formation = 3, nuclear pleomorphism = 3, and mitotic count = 3; total score = 3+3+3=9/9) composed of pleomorphic tumor cells arranged in trabecular, corded, and nested configurations with moderate lymphoplasmacytic tumor-host reaction, significant fibrosis of tumor stroma, indistinct tumor necrosis, and frequent peritumoral lymphovascular permeation and perineural invasion.        
+2. Breast, 2 o'clock direction, 3-cm from the main tumor, right, simple mastectomy, another separated locus grade 3/3 invasive ductal carcinoma of no sepcial type (ductal NST, tumor size measuirng 9-mm in greaetst dimension, according to the Nottingham modification of the Bloom-Richardson System: point of tubule formation = 3, nuclear pleomorphism = 3, and mitotic count = 3; total score = 3+3+3=9/9) composed of pleomorphic tumor cells arranged in trabecular, corded, and nested configurations with mild lymphoplasmacytic tumor-host reaction, fibrosis of tumor stroma, indistinct tumor necrosis, focal peritumoral lymphovascular permeation, and no definite perineural invasion identified.    
+3. Surgical margin, peripheral, superficial and basal, right breast, simple mastectomy, free of tumor invasion and in situ lesion with the closest basal margin (1-mm in distance from the invasive tumor) 
+4. Breast, non-tumor, right, simple mastectomy, skipped perivascular satellite-like nodules by grade 3/3 invasive ductal carcinoma of no sepcial type (ductal NST, tumor size about 4-mm in greatest diameter, leaving 20-mm in distance from the main tumor and 10-mm in distance from 3 o'clock peripheral margin) in the fibrocystic background with adjacent pagetoid ductal spreading and lobular cancerization by cribriform intermediate grade ductal carcinoma in situ (up to 3-mm in diameter) and patchy sclerosing adenosis and evident stromal fibrosis.
+5. Skin, right breast, simple mastectomy, free of tumor invasion, DCIS lesion or Paget's cells.
+7. Lymph node, sentinel, axillary, right, lymphadenectomy, metastatic invasive ductal carcinoma of no sepcial type (intranodal lesion about 5-mm in maximal diameter) without extranodal soft tissue extension (1/17).  
+8. Ancillary test for invasive tumor cells: (section B6)
+     ER: positive, 4/4, 95%, evident nuclei staining, intensity and proportion: mild(35%), moderate(30%), strong(30%)
+     PR: positive, 4/4, 95%, evident nuclei staining, intensity and proportion: moderate(25%), strong(70%)
+     AR: positive, 4/4, 70%, evident nuclei staining, intensity and proportion: mild(40%), moderate(30%)
+     HER-2/neu: weakly positive, score 2+, intensity and proportion: weak incomplete membranous staining(45%), moderate complete membranous staining(15%).
+     E-Cadherin: positive, strong membraneous staining
+     P63: loss of peripheral myoepithelial expression in the invasive components
+     CK5/14: loss of peripheral myoepithelial expression in the invasive components
+     Ki-67 proliferation index: about 23%
+     EGFR: positive, mild membrane stain in 2% tumor cells
+     Phosphahistone 3 (average mitotic count: 38/10 HPFs)
+     consistent with the immunosurrogates suggestive of ductal carcinoma NST of luminal B or luminal B-Her2 genotype (depending on Her2-FISH result).
+9. Her2-FISH study: already arranged and will be performed (in block B6) as soon as possible. 
+10. Pathologic staging: T2(m)N1a,cM0, stage IIB (AJCC 7th edition, 2010, combined with the previously frozen report of 201406192 for sentinel lymph nodes).
+[描述]
+     The specimen submitted consists of two bags of tissue labeled as: 1:right breast and 2: axillary LN, respectively fixed in formalin (tissue take out time: 11:15 and fixation time 12:25 on 02/24; sampled time: 14:30 on 02/25; tumor part cut open previously).
+     Specimen 1 consists of the breast tissue measuring 15x15x4-cm in size. The overlying skin is 10.5x4.5-cm in dimension with nipple included. It is tied with two stitches at 12 o'clock margin and one stitch at 3 o'clock margin. On cut, there is a well-defined whitish, elastic-firm tumor, measuring 2.1x1.7x1.5-cm in size, locating at 12 o'clock direction, 2-cm from the nipple/areola . There are also another nodules measuring up to 0.9x0.8-cm in dimension, locating at 12-3 o'clock direction, measuring 1.3-cm in distance from the main tumor, and close to 3 o'clock peripheral margin. The overlying skin is unremarkable and free of tumor invasion. The tumor measures about 2.5-cm , 1.0-cm , 7.0-cm, 6.5-cm, 0.1-cm and 1.5-cm from the 12/3/6/9 o'clock peripheral margin, basal and superficial margin, respectively. The breast elsewhere also reveals small nodules and fibrosis change.
+     Specimen 2 consists of more than ten fibroadipose tissue fragments measuring up to 5x4x2-cm in size. They are yellow and elastic. Several lymph node measuring up to 1.6x0.7x0.6-cm in size are dissected and sampled.
+
+     Representative sections are taken and labeled as:   Jar 2
+     A1-4: the main tumor with basal margin (basal margin inked green)
+     A5: tumor and superficial margin
+     A6: the other separate tumor very close to the superficial margin  
+     B1-4: 12/3/6/9 o'clock peripheral margin (en-face)
+     B5: tumor and superficial margin (inked orange)
+     B6: tumor and basal margin (inked green)
+     C1: elsewhere, 12-3 o'clock direction
+     C2: elsewhere, 3-6 o'clock direction
+     C3: elsewhere, 6-9 o'clock direction
+     C4: elsewhere, 9-12 o'clock direction
+     C5: skin and nipple
+     D1-3: axillary lymph nodes
+
+     For the microscopic descriptions, please refer to the region of diagnostic columns described in the vortext! Thanks !!
+
+     Resident Chung-Huan Sun/Attending V.S Tze-Yi Lin
+
+Reference: 
+病理號:201403413  表單:CA-T101-222642  報告醫師:張慧雯(1030205)
+1. Breast, upper inner quadrant, right, echo-guided biopsy, invasive ductal carcinoma (tentative grade: 2/3).
+2. Immunohistochemical study: CK(positive), E-cadherin(positive), ER(positive, 4/4, strong nuclear staining in 99% tumor cells), PR(positive, 4/4, strong nuclear staining in 99% tumor cells), Her2/neu(negative, score 1+), Ki67 labeling index(12.5%), AR(positive, weak nuclear staining in 20% tumor cells), EGFR(negative, score 0).
+病理號:201406192  表單:CA-T101-224754  報告醫師:曾冠欽(1030224)
+Lymph node, axillary, sentinel, right, lymphadenectomy and frozen section, invasive ductal carcinoma, metastatic (2/3).

@@ -1,0 +1,49 @@
+25/女
+[報告內容]
+1. Breast, 12 o'clock position, left, partial mastetomy, ductal carcinoma in situ, low-grade        
+2. Immunohistochemical study: ER (positive, 4/4, 85%) and PR (positive, 4/4, 90%).
+3. Pathologic stage: Tis Nx. (AJCC 2010)
+[描述]
+Macroscopic Examination:
+  The specimen submitted consists of one breast tissue fragment, fixed in formalin.
+  The breast tissue removed by partial mastectomy measuring 3.5 x 3.0 x 2.5 cm in size without overlying skin. It is tied with two long stitches at 12 o'clock direction and one long stich at 3 o'clock direction. There is one white and elastic tumor, measuring 2.2 x 1.5 cm in dimension with surrounding fibrosis. The tumor measures 0.7 cm, 0.8 cm, 0.2 cm and 1.0 cm away from peripheral resection margins at 12, 3, 6, 9 o'clock direction. All surgical margins are seems free of tumor grossly. 
+
+  All for sections: Jar 0
+  A1-8: tumor (A1-2, A3-4, A5-6, A7-8: mapping, 12' margin inked blue, 3' margin inked yellow, 6' margin inked green, 9' margin inked orange)
+  A9: superficial margin (inked red)
+  A10: base margin (inked black)
+
+Microscopic Examination:
+a. FOR INVASIVE CARCINOMA: Not identified.
+b. FOR CARCINOMA IN SITU: 
+    1. Tumor size (mm): Multiple foci, up to 7 mm (section A5-6).
+    2. Nuclear grade: 1-2.
+    3. Architectural pattern: Cribriform type.
+    4. Tumor necrosis: Absent.
+c. Margin status: 
+    Basal margin: Free of tumor, 2.0 mm to DCIS (section A10).
+    Superficial margin: Free of tumor.
+    12 o'clock margin: Free of tumor, 6.0 mm to DCIS (section A6).
+    3 o'clock margin: Free of tumor, 9.0 mm to DCIS (section A8).
+    6 o'clock margin: Free of tumor, 1.0 mm to DCIS (section A8).
+    9 o'clock margin: Free of tumor.
+d. Pathologic staging:
+    1. Primary Tumor (pT): Tis.
+    2. Regional Lymph Nodes (pN): Nx.
+    3. Pathologic stage: Tis Nx
+e. Lymphovascular permeation: Absent.
+   Perineural invasion: Absent.
+f. Treatment Effect: Not performed.
+g. Immunohistochemical study for tumor cells (section A5): 
+    ER: Positive, 4/4, moderate to strong nuclei staining of 85% tumor cells.  
+    PR: Positive, 4/4, strong nuclei staining of 90% tumor cells.
+    CK5/14 (section A6): Negative for tumor cells, but highlighting well preserved peripheral myoepithelium.
+h. Conclusion: 
+    The left breast shows multiple foci of low-grade, cribriform ductal carcinoma in situ; some of them also involve sclerosing adenosis. No definite stromal invasion, lymphovascular permeation or perineural invasion is identified. All surgical margins are free of tumor.
+    Non-neoplastic breast shows stromal fibrosis with adenosis, foci of dystrophic calcifications, ductal hyperplasia, focal atypical ductal hyperplasia and areas of columnar cell change.
+ 
+    Resident Yun-Shan Lin / Attending V.S. Rui-Yun Chen
+
+Ref:
+病理號:201549834  表單:CA-T101-289108  報告醫師:張慧雯(1041211)
+Breast, 12'/2 cm, left, echo-guided core needle biopsy, complex sclerosing lesion with sclerosing adenosis, cystic chang, florid ductal hyperplasia, stromal fibrosis, and focal atypical ductal hyperplasia (see description).

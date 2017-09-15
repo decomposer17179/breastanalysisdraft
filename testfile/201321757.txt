@@ -1,0 +1,35 @@
+60/女
+[報告內容]
+1. Breast, right, breast conserving surgery, grade 1/3 ductal carcinoma NST (invasive tumor measuring 0.4-cm in maximal dimension, according to the Nottingham modification of the Bloom-Richardson System: point of tubule formation= 3, nuclear pleomorphism= 1, and mitotic count= 1; total score = 3+1+1=5/9) composed of monotonous cuboidal tumor cells revealing enlarged and pleomorphic nuclei and inconspicuous mitotic activity arranged in cords or small nests infiltrating in fibrotic stroma with multfocal grade 1-2/3 cribriform and solid ductal carcinoma in situ (DCIS lesions up to 2.0-mm in diameter) containing intraluminal clustered granular to laminated microcalcifications and scattered punch-out necrosis, mild lymphoplasmacytic tumor-host reaction, and no definite peritumoral lymphovascular permeation nor perineural invasion identified. 
+2. Surgical margin, right breast (bag 1), peripheral, base and anterior, breast conserving surgery, free of tumor invasion or DCIS lesion with the distance of 6.0-mm to closest base from invasive tumor and 1.0-mm to closest base from ductal carcinoma in situ.
+3. Breast, labeled as additional margin, further excision, foci of solid or cribriform intermediate grade ductal carcinoma in situ (estimating up to 1.5-mm in dimension, confirmed by CK5/14 stain in section D2), stromal fibrosis with multi-foci of microcalcification, and free of tumor invasion.
+4. Surgical margin, bag 2, further excision, free of tumor invasion or DCIS lesion with the distance less than 1.0-mm from ductal carcinoma in situ.
+5. Breast, right, non-tumor part, breast conserving surgery, stromal fibrosis with scattered to clustered granular microcalcifications in sclerotic/unfolded ductuloacini, area of hemorrhage (which might be previous biopsy route), and no definite invasive tumor or DCIS lesion identified.
+6. Skin, right breast, breast conserving surgery, area of granulation tissue formation and free of tumor invasion, DCIS lesion or Paget's cells.
+7. The immunohistochemical study for the primary invasive tumor cells (performed in section A7): ER (positive, 4/4, strong nuclear staining in over 95% of tumor cells), PR (positive, 4/4, strong nuclear staining in 90% of tumor cells), HER2/neu (negative, -/+++, score 0), EGFR (neative, -/+++), CK5/14 (complete loss of peripheral expression in the invasive regions), p63 (loss of peripheral myoepithelial expression in the invasive components and preserved peripheral nuclear staining in DCIS regions), and Ki-67 (very low proliferative fraction: 1% in "hot-zone" regions).
+8. Pathologic staging: T1aN0(sn)M0, stage IA (AJCC 7th edition, 2010, combining the pathology report 2013-21680 for sentinel lymph node).
+[描述]
+      The specimen is submitted in two separated bags labeled as 1: right breast and 2: additional margin, fixed in formalin. The specimen is resected on 13:20 and fixed in formalin on 13:30. The tumor lesion has been cut as received with loss orientation.  
+      The specimen labeled as 1, removed by breast conserving surgery measures 6.5 x 4.8 x 3.2 cm in size. It includes a fusiform skin, measuring 3.3 x 0.6 cm in diameter. There are three whitish and elastic lesion, measuring 0.5 x 0.5 cm, 1.4 x 1.2 cm and 1.6 x 1.5 x 1.2 cm in dimension, respectively, surrounded by fatty tissue. No obvious firmly tumor lesion is found. 
+      The specimen labeled as 2 measures 3.2 x 1.5 x 0.4 cm in size. It is yellowish and elastic. 
+
+      Representative tissues are taken and labeled as following:          Jar 1
+      A1-3 (mapping): lesions with peripheral margins at 3 o'clock direction (inked green) and 9 o'clock direction (inked blue)
+      A4: lesions with peripheral margins at 6 o'clock direction
+      A5-7: lesion with base
+      A8-9: lesion with anterior margin
+      (the whitish and elastic lesions are submitted totally)
+      B: representative breast tissue
+      C: skin
+      D1-2: separately submitted additional margin (all for section)
+
+      For the microscopic descriptions, please refer to the region of diagnostic columns described in the vortext! Thanks !!
+
+      Resident: Chen Pin-Jie/ Attending: T. Y. Lin
+
+Ref:
+病理號:201319964  表單:CA-T101-199946  報告醫師:張慧雯(1020619)
+1. Breast, right, mammo-guided biopsy, ductal carcinoma in situ (tentative grade: low to intermediate).
+2. Immunohistochemical study: E-cadherin(positive), ER(positive, 4/4, diffuse strong nuclear staining in nearly 100% tumor cells), PR(positive, 3/4, moderate nuclear staining in 65% tumor cells) (see description).
+病理號:201321680  表單:CA-T101-203111  報告醫師:韓鴻志(1020628)
+Lymph nodes, sentinel, right, S/P breast cancer, Reactive lymphoid hyperplasia (0/3).

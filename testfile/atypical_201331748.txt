@@ -1,0 +1,32 @@
+63/女
+[報告內容]
+1. Bone, femur, head, right, excision and total hip relacement, subchondral metastatic grade 2-3/3 ductal carcinoma NST (no special type) of breast primary with marked tumor necrosis (up to 50% in area), overlying intact cartilaginous cap, adjacent bony trabecular destruction, and foci of intraosseous lymphovascular permeation.
+2. Bone, femur, head, right, labeled as tumor region, excision and total hip replacement, metastatic grade 2-3/3 ductal carcinoma NST (no special type) of breast primary with patchy tumor necrosis (up to 10% in area), evident stromal fibroplasia, adjacent bony trabecular destruction, and foci of intraosseous lymphovascular permeation.
+3. Bone, acetabullar region, right, excision and total hip replacement, metastatic grade 2-3/3 ductal carcinoma NST (no special type) of breast primary with focal tumor necrosis (up to 3% in area), evident stromal fibroplasia, adjacent bony trabecular infiltration, and foci of intraosseous lymphovascular permeation.
+4. The immunohistochemical study (performed in decalcified section B): ER (positive, 2/4, mild nuclear, 35% to 40%), PR (positive, mild nuclear, 1/4, 1%) , Her2/Neu (negative, score 0+), p63 (negative nuclear expression), CK5-14 (negative membranocytoplasmic expression), EGFR (negative, score 0+), and Ki-67 (low proliferation fraction: 2%, scattered faint/mild nuclear staining), c/w the immunosurrogates suggestive of ductal carcinoma NST of probably luminal-A genotype (based on the limited IHC results in the decalcified/suboptimal specimen.
+[描述]
+      The specimen is submitted in three separated bags labeled as 1, 2 and 3 respectively fixed in formalin.
+
+      The specimen labeled as 1 consists of a tissue fragment measuring 4.5x4.2x4.0 cm. in size.  Grossly, they are tan and hard.
+      The specimen labeled as 2 consists of three tissue fragments measuring up to 1.5x0.4x0.2 cm. in size.  Grossly, they are tan and hard.
+      The specimen labeled as 3 consists of seven tissue fragments measuring up to 0.5x0.4x0.2 cm. in size.  Grossly, they are tan and hard.
+
+      All for sections and labeled as:   Jar 0
+      (ALL Decalcified)
+      A: femoral head,   B: tumor in femoral head,
+      C: tumor in acetabullum.
+
+        For the microscopic descriptions, please refer to the region of diagnostic columns described in the vortext! Thanks !!
+
+Ref:
+病理號:200830757  表單:CA-T101-90298  報告醫師:陳松廷(0971218)
+Breast, lower-outer quadrant, left, echo-guided biopsy, invasive ductal carcinoma, ER(++++), PR(++), Her-2/neu(1+/3+)
+病理號:200832051  表單:CM-Y000-208269  報告醫師:林智一(0980109)
+1. Breast, left, upper outer quadrant, 2-3 o'clock direction, 2.5 cm. from the areola, modified radical mastectomy (MRM), grade 3/3 NOS type invasive ductal carcinoma (about 2.1x1.9 cm. in maximal dimension, Nottingham's grading scores = 3+3+2 = 8/9) revealing predominantly irregular trabecular or focally indian-filing growth pattern with infiltrative tumor border, deep dermis invasioin, presence of intratumoral grade 2-3/3 cribriform ductal carcinoma in situ (DCIS) and scattered intraluminal necrosis and clustered laminated dystrophic microcalcifications, hyalinizing fibrosis and elastosis of tumor stroma, mild to focally moderate peritumoral inflammatory host reaction, frequent perineural invasion, and focal lymphovascular permeation.
+2. Surgical margin, left breast, basal, MRM, free of tumor invasion or DCIS lesion, but very close to the invasive tumor front (about 0.5 mm from tumor front).
+3. Breast, left, non-tumor part, MRM, clustered granular microcalcifications in the fibrocystic background with no definite invasive tumor nor DCIS lesion identified.
+4. Nipple and areola, left, MRM, free of tumor invasion, DCIS lesion, or Paget's cells.
+5. Skin, left breast, MRM, invaded by grade 3/3 NOS type invasive ductal carcinoma in the deep dermis.
+6. Lymph node, axillary, left, lymphadenectomy, negative for malignancy (0/15).
+7. Immunohistochemistry study: ER (positive, 4/4, strongly nuclear stain in 95 % tumor cells), PR (positive, 2/4, strongly nuclear stain in 30 % tumor cells), Her2/neu (positive, +/+++, weakly incomplete membranous and cytoplasmic stain in 60 % tumor cells), E-cahderin (positive, diffuse membraneous expression). 
+8. pTNM: T2N0Mx, stage IIA. (AJCC).

@@ -1,0 +1,13 @@
+45/女/1040217
+[報告內容]
+Breast, inner lower quadrant, right, mammo-guided biopsy, invasive ductal carcinoma (tentative grade: 2/3).
+[描述]
+      The specimen is submitted in two separated bags labeled as 1: calcified part and 2: non-calcified part, respectively fixed in formalin.
+
+      The specimen labeled as 1 consists of nine tissue fragments measuring up to 1.0x0.1x0.1 cm in size.  Grossly, they are tan and soft.
+      The specimen labeled as 2 consists of more than ten tissue fragments measuring up to 1.1x0.1x0.1 cm in size.  Grossly, they are tan and soft.
+
+      All for sections and labeled as:   Jar  0.
+      A: calcified part   B:non-calcified part
+
+      Microscopically, it shows small clusters or cord arrangement of atypical cell infiltratiing in the fibrotic stroma with area of columnar cell change and clusters of microcalcification. The immunohistochemical study reveals these atypical cells are CK(positive), E-cadherin(positive, membranous staining), CD68(negative), P63(negative), CK5/14(negative). After peer review, the invasive ductal carcinoma of breast (tentative grade: 2/3, according to Nottingham modification of Bloom-Richardson scoring system (tubular formation: 3; nuclear pleomorphism: 2; mitotic activity: 1; 6/9)) is considered. The invasive carcinoma measured 0.2 cm in greatest diameter. The addtional immunohistochemical study reveals the small residual tumor cells are ER(positive, 4/4, strong nuclear staining in 95% tumor cells), PR(positive, 4/4, strong nuclear staining in 95% tumor cells), Her2/neu(negative, score 0). The Ki67 labeling index is deferred to subsequent pathologic specimen. Further pathologic examination is recommended due to small tumor lesion in sectional slides.  

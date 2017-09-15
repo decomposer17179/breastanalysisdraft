@@ -1,0 +1,78 @@
+57/女
+[報告內容]
+1. Breast, 7/3, left, breast conserving surgery, invasive ductal carcinoma, grade 3/3 with free resection margin.
+2. Breast, 2-3 o'clock margin, left, excision, usual ductal hyperplasia and free of tumor.
+3. Breast, 4 o'clock margin, left, excision, free of tumor.
+4. Lymph node, axillary, left, lymphadenectomy, negative of malignancy (0/2) 
+5. Immunohistochemical study: E-cadherin(positive), ER(positive, 4/4, strong nuclear staining in 98% of tumor cell), PR(positive, 4/4, moderate to strong nuclear staining in 98% of tumor cell), Her2/neu(negative, score 1+), Ki67 labeling index(22%)
+6. Pathologic stage: pT2,N0 (AJCC 2010, Combine with Frozen report: s2015-32652)
+[描述]
+Gross description:
+      The specimen is submitted into 4 bags labeled as 1. L't breast mass, 2. Margin: 2-3 o'clock, 3. Margin: 4 o'clock, 4. Axillary lymph nodes, fixed in formalin. No tissue fixation and resection time is available.
+      The specimen 1 consists of one conserving removed breast tissue measuring 6x3.5x4cm in size. Overlying skin measures 5x2cm in dimension. No nipple and areola is included. Grossly, there is one white, firm, and irregular tumor measuring 2.1x2.0 cm in size. The tumor measures 1.3cm, 1.3cm, 1.3cm and 1.0cm away from peripheral resection margins at 12, 3, 6, 9 o'clock direction, respectively. No remarkable change of the skin tissue.
+     The specimen labeled as additional margin of 2-3 o'clock measures  3.2x2x0.5cm in size with clip for labeling direction. On section, no tumor mass is identified.
+     The specimen labeled as additional margin of 4o'clock measures 1.8x1.4x0.5cm in size with clip for labeling direction. On section, no tumor mass is identified.
+      The specimen 4 contains one soft tissue measuring up to 3x2x1 cm in size, respectively. Several lymph nodes are dissected.
+      Representative tissues are taken and labeled as following:   Jar2
+      (base ink: black, superficial ink red, 12-3 ink orange, 3-6 ink green, 6-9 ink yellow, 9-12 ink blue)
+      A1-5: main tumor with greatest dimension, including 12,3,6,9 peripheral margin(mapping:A1-2,A3-4 )
+      B1: base margin with tumor
+      B2: superficial margin with tumor
+      C1-2: additional margin of 2-3 o'clock(clip ink green, another side ink black) (all for section)
+      D:additional margin of 4 o'clock(clip ink green, another side ink black) (all for section)
+      E: axillary lymph node(all for section)
+Microscopic Examination:
+a. FOR INVASIVE CARCINOMA
+    1. Histologic type: Invasive ductal carcinoma
+    2. Size of invasive carcinoma (mm): 21 mm, section A1-2
+    3. Histologic grade (Nottingham histologic score): 
+     I. Tubule Formation: score =3
+     II. Nuclear Pleomorphism: =3
+     III. Mitotic Count: =2
+     Total Nottingham score: Grade III(score 8) 
+    4. Extent of tumor 
+     Skin involvement: Absent
+     Chest wall invasion deeper than pectoralis muscle: Absent
+b. Margins: Negative
+    12 o'clock margin: free, 12 mm 
+    3 o'clock margin: free, 5 mm, seciton A3
+    3-6 o'clock margin: free, 2 mm at section A4
+    6 o'clock margin: free, 10 mm 
+    9 o'clock margin: free, 10 mm
+    9-12 o'clock margin: free, 3mm at section A3
+    superficial margin: free, 4mm 
+    base margin: free, 5 mm 
+    separated margin of 2-3 o'clock: free of invasive carcinoma
+    separated margin of 4 o'clock: free of invasive carcinoma
+C. Nodal status: negative
+    No. examined:7 (2 in specimen and 5 in frozen s2015-32652)
+    No. macrometastases (>2 mm): 0
+    No. micrometastases (>0.2 - 2 mm and/or >200 cells): 0
+    No. isolated tumor cells (<=0.2 mm and <=200 cells): 0
+    Specific: left axillary region (0/7) 
+d. Pathologic Staging (pTNM)
+   (A) Primary Tumor (pT):
+     T2: Tumor greater than 2 cm but not more than 5 cm in greatest dimension 
+(B) Regional Lymph nodes (pN): (2 in this specimen and 5 in 
+     N0: No regional lymph node metastases 
+     Lymph node examintion: (0/7 )
+   Pathologic staging: pT2,N0(sn)
+e. Lymphovascular permeation: Present, section A3
+   Perineural invasion: Present
+f. Treatment Effect: not applicable.
+g. Immunohistochemical study for invasive tumor cells: (section A2)
+    ER: positive, 4/4, strong nuclear staining in 98% of tumor cell
+    PR: positive, 4/4, moderate to strong nuclear staining in 98% of tumor cell
+    Her2/neu: negative, score 1+
+    CK5/14: loss of peripheral myoepithelial expression in the invasive components   
+    E-cadherin: positive  
+    Ki-67 proliferation index: 22%
+    The immunoprofile suggest of type B molecular breast cancer
+h. COMMENT
+     All resection margin are free of tumor. The non-tumor part shows periductal inflammation, and stromal fibrosis. The skin is free of tumor or Paget's disease. No regional lymph node metastasis is identified. The additional margin of 2-3 o'clock shows focal  usual ductal hyperplasia, demostraed by CK5/14 staining and free of tumor. The additional margin of 4 o'clock is free of tumor.
+
+      Resident:Yung-Chih Hsu/Attending:Dr. Chang Hui-Wen
+
+Reference:
+病理號:201532652  表單:CA-T101-277544  報告醫師:曾冠欽(1040817)
+Lymph node, axillary, sentinel, left, lymphadenectomy and frozen section, free of malignancy (0/5)
